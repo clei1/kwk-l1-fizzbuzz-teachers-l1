@@ -6,5 +6,6 @@ def fizzbuzz(n)
       "Fizz"
   if (n % 5 == 0)
     "Buzz"
-  return nil
+  else
+    nil
 end
